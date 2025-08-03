@@ -14,7 +14,7 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "dev" :  "react scripts dev" ,
+    "dev": "react scripts dev",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
@@ -36,5 +36,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^6.3.0"
   }
 }
